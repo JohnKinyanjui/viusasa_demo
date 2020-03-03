@@ -1,6 +1,9 @@
 # viusasa_demo
 
-A new Flutter application.
+This is a redesin demo for a kenyan app called viusasa.This is my thoughts on how viusasa should look like.
+![Image _1](link-to-image)
+
+
 
 ## Getting Started
 
